@@ -1,0 +1,175 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blank WordPress Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2024-05-25 17:29+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:26
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: footer.php:24 functions/common_functions.php:125 header.php:48
+msgid "Home"
+msgstr "Домой"
+
+#: footer.php:25 header.php:49
+msgid "What is it"
+msgstr "Что это"
+
+#: footer.php:26 header.php:50
+msgid "Features"
+msgstr "Преимущества"
+
+#: footer.php:27 header.php:51
+msgid "Suitable for"
+msgstr "Для чего подходит"
+
+#: footer.php:28 header.php:52
+msgid "Pricing"
+msgstr "Стоимость"
+
+#: footer.php:29 header.php:53
+msgid "Polygon"
+msgstr "Полигон"
+
+#: footer.php:30 header.php:54
+msgid "Contacts"
+msgstr "Контакты"
+
+#: footer.php:37 inc/common_contacts.php:15
+msgid "Address"
+msgstr "Адрес"
+
+#: footer.php:40 inc/common_contacts.php:31
+msgid "Phone"
+msgstr "Телефон"
+
+#: footer.php:41 inc/common_contacts.php:23
+msgid "Email"
+msgstr "Email"
+
+#: footer.php:53
+msgid "Copyright"
+msgstr "Copyright"
+
+#: functions/common_functions.php:16 functions/common_functions.php:17
+msgid "Main settings"
+msgstr "Основные настройки"
+
+#: functions/common_functions.php:18
+msgid "Save"
+msgstr "Сохранить"
+
+#: functions/common_functions.php:127
+msgid "Search results with query"
+msgstr "Результаты поиска по запросу"
+
+#: functions/common_functions.php:128
+msgid "Posts with tag"
+msgstr "Записи с тегом"
+
+#: functions/common_functions.php:129
+msgid "Authors posts"
+msgstr "Записи автора"
+
+#: functions/common_functions.php:130
+msgid "Error"
+msgstr "Ошибка"
+
+#: functions/common_functions.php:131
+msgid "Page"
+msgstr "Страница"
+
+#: functions/common_functions.php:132
+msgid "Comments page"
+msgstr "Страница комментариев"
+
+#: functions/common_functions.php:423
+msgid "Pages"
+msgstr "Страницы"
+
+#: functions/common_functions.php:424
+msgid "First page"
+msgstr "Первая страница"
+
+#: functions/common_functions.php:436
+msgid "Last page"
+msgstr "Последняя страница"
+
+#: header.php:55 inc/modal_ring.php:6 inc/modal_ring.php:25
+msgid "Order ring"
+msgstr "Заказать звонок"
+
+#: inc/common_contacts.php:48 inc/modal_ring.php:14 scripts/sendMessage.php:37
+msgid "Name"
+msgstr "Имя"
+
+#: inc/common_contacts.php:51 inc/modal_ring.php:17
+msgid "Phone or Email"
+msgstr "Телефон или Email"
+
+#: inc/common_contacts.php:56 scripts/sendMessage.php:39
+msgid "Message"
+msgstr "Сообщение"
+
+#: inc/common_contacts.php:61 inc/modal_ring.php:22
+msgid "I agree with"
+msgstr "Даю согласие на"
+
+#: inc/common_contacts.php:61 inc/modal_ring.php:22
+msgid "personal data processing"
+msgstr "обработку персональных данных"
+
+#: inc/common_contacts.php:65
+msgid "Send"
+msgstr "Отправить"
+
+#: scripts/sendMessage.php:22
+msgid "Please, fill in all required fields"
+msgstr "Пожалуйста, заполните все необходимые поля"
+
+#: scripts/sendMessage.php:25
+msgid "Please, confirm you agree with personal data processing"
+msgstr "Пожалуйста, подтвердите согласие на обработку персональных данных"
+
+#: scripts/sendMessage.php:35
+msgid "Apply from the website"
+msgstr "Заявка с сайта"
+
+#: scripts/sendMessage.php:38
+msgid "Contact"
+msgstr "Контакт"
+
+#: scripts/sendMessage.php:45
+msgid "Thank you! Your message is delivered. We will contact you soon"
+msgstr ""
+"Спасибо! Ваше сообщение отправлено. Мы свяжемся с вами в ближайшее время"
+
+#: scripts/sendMessage.php:48
+msgid ""
+"Errors occurred during script execution. Please inform the site "
+"administrator about this issue"
+msgstr ""
+"Во время выполнения скрипта произошли ошибки. Пожалуйста, сообщите "
+"администратору сайта об этом"
